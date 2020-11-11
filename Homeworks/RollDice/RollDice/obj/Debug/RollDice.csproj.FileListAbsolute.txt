@@ -1,0 +1,10 @@
+C:\Users\Efe\Desktop\C# Projects\RollDice\RollDice\bin\Debug\RollDice.exe.config
+C:\Users\Efe\Desktop\C# Projects\RollDice\RollDice\bin\Debug\RollDice.exe
+C:\Users\Efe\Desktop\C# Projects\RollDice\RollDice\bin\Debug\RollDice.pdb
+C:\Users\Efe\Desktop\C# Projects\RollDice\RollDice\obj\Debug\RollDice.csprojAssemblyReference.cache
+C:\Users\Efe\Desktop\C# Projects\RollDice\RollDice\obj\Debug\RollDice.Form1.resources
+C:\Users\Efe\Desktop\C# Projects\RollDice\RollDice\obj\Debug\RollDice.Properties.Resources.resources
+C:\Users\Efe\Desktop\C# Projects\RollDice\RollDice\obj\Debug\RollDice.csproj.GenerateResource.cache
+C:\Users\Efe\Desktop\C# Projects\RollDice\RollDice\obj\Debug\RollDice.csproj.CoreCompileInputs.cache
+C:\Users\Efe\Desktop\C# Projects\RollDice\RollDice\obj\Debug\RollDice.exe
+C:\Users\Efe\Desktop\C# Projects\RollDice\RollDice\obj\Debug\RollDice.pdb
