@@ -1,4 +1,4 @@
-# Object Oriented Programming
+# Object Oriented Programming Labs
 
 - **University :** `Hasan Kalyoncu University`
 - **Lesson Code :** `COME201-CENG211`
