@@ -1,0 +1,10 @@
+C:\Users\efeun\Desktop\Nesne Tabanlı Programlama\ListCalculator\ListCalculator\bin\Debug\ListCalculator.exe.config
+C:\Users\efeun\Desktop\Nesne Tabanlı Programlama\ListCalculator\ListCalculator\bin\Debug\ListCalculator.exe
+C:\Users\efeun\Desktop\Nesne Tabanlı Programlama\ListCalculator\ListCalculator\bin\Debug\ListCalculator.pdb
+C:\Users\efeun\Desktop\Nesne Tabanlı Programlama\ListCalculator\ListCalculator\obj\Debug\ListCalculator.csprojAssemblyReference.cache
+C:\Users\efeun\Desktop\Nesne Tabanlı Programlama\ListCalculator\ListCalculator\obj\Debug\ListCalculator.Form1.resources
+C:\Users\efeun\Desktop\Nesne Tabanlı Programlama\ListCalculator\ListCalculator\obj\Debug\ListCalculator.Properties.Resources.resources
+C:\Users\efeun\Desktop\Nesne Tabanlı Programlama\ListCalculator\ListCalculator\obj\Debug\ListCalculator.csproj.GenerateResource.cache
+C:\Users\efeun\Desktop\Nesne Tabanlı Programlama\ListCalculator\ListCalculator\obj\Debug\ListCalculator.csproj.CoreCompileInputs.cache
+C:\Users\efeun\Desktop\Nesne Tabanlı Programlama\ListCalculator\ListCalculator\obj\Debug\ListCalculator.exe
+C:\Users\efeun\Desktop\Nesne Tabanlı Programlama\ListCalculator\ListCalculator\obj\Debug\ListCalculator.pdb
