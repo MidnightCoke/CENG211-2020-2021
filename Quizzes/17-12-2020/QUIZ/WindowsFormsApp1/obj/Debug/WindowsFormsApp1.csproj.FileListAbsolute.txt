@@ -1,0 +1,10 @@
+C:\Users\efeun\Desktop\HKU2020\CENG211-2020-2021\Quizzes\17-12-2020\QUIZ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\efeun\Desktop\HKU2020\CENG211-2020-2021\Quizzes\17-12-2020\QUIZ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\efeun\Desktop\HKU2020\CENG211-2020-2021\Quizzes\17-12-2020\QUIZ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\efeun\Desktop\HKU2020\CENG211-2020-2021\Quizzes\17-12-2020\QUIZ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\efeun\Desktop\HKU2020\CENG211-2020-2021\Quizzes\17-12-2020\QUIZ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\efeun\Desktop\HKU2020\CENG211-2020-2021\Quizzes\17-12-2020\QUIZ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\efeun\Desktop\HKU2020\CENG211-2020-2021\Quizzes\17-12-2020\QUIZ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\efeun\Desktop\HKU2020\CENG211-2020-2021\Quizzes\17-12-2020\QUIZ\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\efeun\Desktop\HKU2020\CENG211-2020-2021\Quizzes\17-12-2020\QUIZ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\efeun\Desktop\HKU2020\CENG211-2020-2021\Quizzes\17-12-2020\QUIZ\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
