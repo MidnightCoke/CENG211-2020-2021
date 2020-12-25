@@ -1,0 +1,10 @@
+C:\Users\efeun\source\repos\AfterLab\AfterLab\bin\Debug\AfterLab.exe.config
+C:\Users\efeun\source\repos\AfterLab\AfterLab\bin\Debug\AfterLab.exe
+C:\Users\efeun\source\repos\AfterLab\AfterLab\bin\Debug\AfterLab.pdb
+C:\Users\efeun\source\repos\AfterLab\AfterLab\obj\Debug\AfterLab.csprojAssemblyReference.cache
+C:\Users\efeun\source\repos\AfterLab\AfterLab\obj\Debug\AfterLab.Form1.resources
+C:\Users\efeun\source\repos\AfterLab\AfterLab\obj\Debug\AfterLab.Properties.Resources.resources
+C:\Users\efeun\source\repos\AfterLab\AfterLab\obj\Debug\AfterLab.csproj.GenerateResource.cache
+C:\Users\efeun\source\repos\AfterLab\AfterLab\obj\Debug\AfterLab.csproj.CoreCompileInputs.cache
+C:\Users\efeun\source\repos\AfterLab\AfterLab\obj\Debug\AfterLab.exe
+C:\Users\efeun\source\repos\AfterLab\AfterLab\obj\Debug\AfterLab.pdb
